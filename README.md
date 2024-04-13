@@ -2,9 +2,13 @@
 Docker is a popular platform used to develop, deploy, and run applications inside containers. Containers are lightweight, standalone, and executable packages that contain all the necessary software, libraries, and dependencies needed to run an application. Docker provides a way to package and distribute applications in a consistent and portable manner, regardless of the environment they are deployed in.
 
 Key components of Docker include:
+
 Images: Blueprints for containers, containing everything needed to run an app.
+
 Containers: Lightweight, isolated environments running instances of Docker images.
+
 Docker Engine: Core component for building, running, and managing containers.
+
 Dockerfile: Instructions for building Docker images.
 Docker Registry: Repository for storing and sharing Docker images.
 Volumes: Mechanism for persisting and sharing data between containers and the host machine.
